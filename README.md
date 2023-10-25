@@ -9,20 +9,12 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi I'm Jenna! I was born and raised near Kansas City, Missouri where I spent my childhood participating in choirs, musicals, dance, and band. I love everything that has to do with music! I studied Music Education with an emphasis in vocal music for my bachelor's degree and upon graduation I moved to Pittsburgh, PA to attend the Heinz College at Carnegie Mellon University to obtain my Master of Arts Manageent degree. I will complete my Systems Synthesis Project in the spring semester of 2024 and graduate in May of 2024. After graduation, I hope to land a job working for an opera organization in community engagement or in general operations management. 
+
+I am taking Telling Stories with Data so that I may be better equiped to create convincing charts, graphs, mind maps, and more to be able to convey the importance of music as it relates to education and social development. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I hope to learn how to utilize color theory to make charts easier to read and draw attention to the correct details that I want to highlight. I also hope to learn how to choose the data that I want to use to convey the story that I am wanting to tell without data manipulation to change the story. I am also excited to use tools I have never used before, such as Github, Tableau, and others. The world of data is new to me, so I hope that this will be a great introductory course to figure out where to begin my dive into the world of data and research.
 
 # Portfolio
 
