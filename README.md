@@ -20,6 +20,10 @@ I hope to learn how to utilize color theory to make charts easier to read and dr
 
 # Examples 
 
+## In-Class Tableau Walkthrough
+[Trust in News Organizations](InClassAssignment.md)
+
+
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt) 
 [Data Visualizations](/visualizing-government-debt.md)
 
