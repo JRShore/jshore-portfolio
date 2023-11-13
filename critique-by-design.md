@@ -1,6 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique By Design - How Many People in Each State Make Minimum Wage or Less
+
+[5bb3904393032c18c75259b4.webp]
+
 I chose to critique this design because I thought it already looked relatively nice, but as they say, there is always room for improvement. I wanted to figure out how to improve this design to be more beneficial to a different audience. 
 
 Originally, my goal was to see what people think is important for this topic. I did not update the numbers from the 2017 information given in the original chart so that I could make a visualization that only contains the same information but in a different way. Therefore, I created this series of data charts to receive feedback on.
