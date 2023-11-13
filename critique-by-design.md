@@ -14,3 +14,19 @@ Originally, my goal was to see what people think is important for this topic. I 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+The feedback I received was not what I was going for. I thought I had created a great set of data to tell a story with, but it was not read the same way by my audience. I went back to the drawing board. I decided to make a more specific story that I wanted to tell. Instead of just using the data from 2017 as the original chart uses, I chose to make a visualization that utilizes all of the information provided to create a look over time for a different comparison. My new focus became to show how Pennsylvania compares with its 19 other states who recognize the federal minimum wage as their state's minimum wage. 
+
+At first I only included Pennsylvania's information. It looks great and can tell a great, one-sided story. I thought that I found the perfect chart, so I asked the same people for feedback on this new visualization. My results were more what I was looking for, but there was something that stuck out to me. When asked if the viewer would do anything different, one respondant said they would like to see a comparison with the rest of the states. 
+
+So, back to the drawing board I went. I could tell a story that paints Pennsylvania in the best light, or I could look at the rest of the data and tell a true story. I went back to my data and created new tables and finding national averages to compare to Pennsylvania. I was shocked to find that Pennsyvania was not performing as well as I initially thought. This made me want to create a chart to show Pennsylvania's specific progress, but also a comparison to the other states who recognize the federal minimum wage as their own minimum wage. 
+
+<div class='tableauPlaceholder' id='viz1699891995381' style='position: relative'><noscript><a href='#'><img alt='Pennsylvania Is On Track with the National Average of States That Observe the Federal Minimum WagePennsylvania, along with 19 other US States, recognizes the federal minimum wage as their own minimum wage. Pennsylvania is on track with the national average of increasing workers&#39; pay above minimum wage. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PA&#47;PAMinimumWageChart&#47;FMWVPA&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PAMinimumWageChart&#47;FMWVPA' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PA&#47;PAMinimumWageChart&#47;FMWVPA&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1699891995381');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
