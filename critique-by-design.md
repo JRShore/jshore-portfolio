@@ -2,7 +2,7 @@
 
 # Critique By Design - How Many People in Each State Make Minimum Wage or Less
 
-<image>[5bb3904393032c18c75259b4.webp]
+[5bb3904393032c18c75259b4.webp]
 
 I chose to critique this design because I thought it already looked relatively nice, but as they say, there is always room for improvement. I wanted to figure out how to improve this design to be more beneficial to a different audience. 
 
