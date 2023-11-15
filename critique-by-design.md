@@ -3,6 +3,7 @@
 # Critique By Design - How Many People in Each State Make Minimum Wage or Less
 
 ![Map of minimum wages](Map.jpg)
+Kiersz, Andy. ‘Amazon Will Raise Workers’ Minimum Wage to $15 an Hour, More than Twice the Federal Minimum — Here’s How Many People in Each State Make Minimum Wage or Less’. Business Insider. Accessed 15 November 2023. https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10.
 
 I chose to critique this design because I thought it already looked relatively nice, but as they say, there is always room for improvement. I wanted to figure out how to improve this design to be more beneficial to a different audience. 
 
@@ -19,7 +20,15 @@ Originally, my goal was to see what people think is important for this topic. I 
 </script>
 
 
-The feedback I received was not what I was going for. I thought I had created a great set of data to tell a story with, but it was not read the same way by my audience. I went back to the drawing board. I decided to make a more specific story that I wanted to tell. Instead of just using the data from 2017 as the original chart uses, I chose to make a visualization that utilizes all of the information provided to create a look over time for a different comparison. My new focus became to show how Pennsylvania compares with its 19 other states who recognize the federal minimum wage as their state's minimum wage. 
+The feedback I received was not what I was going for. I thought I had created a great set of data to tell a story with, but it was not read the same way by my audience. My feedback was the following:
+
+| Questions                    | Male, late 20s                   | Female, mid 50s                   |
+-------------------------------------------------------------------------------------------------------
+| Can you tell me what this is?|It's a graph giving percentages   | A set of charts comparing the     | 
+|                              |of state populations that make at | percentage of people making at or | 
+|                              |or below minimum wage.            | below minimum wage in states who  | |                              |                                  | have adopted a higher minimum wage| |                              |                                  | with states who have not.         |
+
+I went back to the drawing board. I decided to make a more specific story that I wanted to tell. Instead of just using the data from 2017 as the original chart uses, I chose to make a visualization that utilizes all of the information provided to create a look over time for a different comparison. My new focus became to show how Pennsylvania compares with its 19 other states who recognize the federal minimum wage as their state's minimum wage. 
 
 At first I only included Pennsylvania's information. It looks great and can tell a great, one-sided story. I thought that I found the perfect chart, so I asked the same people for feedback on this new visualization. My results were more what I was looking for, but there was something that stuck out to me. When asked if the viewer would do anything different, one respondant said they would like to see a comparison with the rest of the states. 
 
