@@ -27,12 +27,23 @@ The feedback I received was not what I was going for. I thought I had created a 
 | Can you tell me what you think this is? | It’s giving percentages of state populations that make at or below minimum wage. | A set of charts comparing the percentage of people making at or below minimum wage in states who have adopted a higher minimum wage with states who have not. |
 | Can you describe to me what this is telling you? | The first graphic tells me everything I need about the country, the second graphic shows me states that have a higher minimum wage than federal, the third graphic shows states that have federal minimum wage. | That most employees make more than minimum wage. |
 | Is there anything surprising or confusing? | No | No |
+| Who do you think is the intended audience for this? | The Department of Labor. | Employers? |
+| Is there anything you would change or do differently? | No. | No.|
 | Which of these graphics do you think has the most compelling story to tell? | The third one because the cost of living keeps going up but people still aren’t making enough money to live, especially if it’s below minimum wage. But the first one is also really important because I can compare all the states. | The 3rd one. It shows  that states without a minimum wage greater than the federal have more people at or below minimum wage, which makes sense. |
-
 
 I went back to the drawing board. I decided to make a more specific story that I wanted to tell. Instead of just using the data from 2017 as the original chart uses, I chose to make a visualization that utilizes all of the information provided to create a look over time for a different comparison. My new focus became to show how Pennsylvania compares with its 19 other states who recognize the federal minimum wage as their state's minimum wage. 
 
 At first I only included Pennsylvania's information. It looks great and can tell a great, one-sided story. I thought that I found the perfect chart, so I asked the same people for feedback on this new visualization. My results were more what I was looking for, but there was something that stuck out to me. When asked if the viewer would do anything different, one respondant said they would like to see a comparison with the rest of the states. 
+
+|           Questions          |             Male, late 20s             |               Female, mid 50s              |
+|------------------------------|----------------------------------------|--------------------------------------------|
+| Can you tell me what you think this is? | It’s about how PA is doing better than everyone else about paying their workers above minimum wage. | A chart reflecting the number of employees in Pennsylvania making at or below minimum wage. |
+| Can you describe to me what this is telling you? | | That Pennsylvania typically pays higher than minimum wage. |
+| Is there anything surprising or confusing? | No | I am surprised that Pennsylvania doesn’t have a higher than federal minimum wage. |
+| Who do you think is the intended audience for this? | The Department of Labor. | Employers? |
+| Is there anything you would change or do differently? | No | I would include the National numbers so there is a comparison. |
+| What information were you able to pick up/learn? Is it helpful and/or beneficial to you? | The info provided shows that PA is paying their workers better than minimum wage without increasing their own minimum wage requirements. | I learned Pennsylvania typically pays higher than the National minimum wage… But that isn’t saying a whole lot since federal minimum isn’t very high. |
+| Which did you think was better? | The second one. It was cleaner. |  |
 
 So, back to the drawing board I went. I could tell a story that paints Pennsylvania in the best light, or I could look at the rest of the data and tell a true story. I went back to my data and created new tables and finding national averages to compare to Pennsylvania. I was shocked to find that Pennsyvania was not performing as well as I initially thought. This made me want to create a chart to show Pennsylvania's specific progress, but also a comparison to the other states who recognize the federal minimum wage as their own minimum wage. 
 
