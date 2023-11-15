@@ -22,11 +22,13 @@ Originally, my goal was to see what people think is important for this topic. I 
 
 The feedback I received was not what I was going for. I thought I had created a great set of data to tell a story with, but it was not read the same way by my audience. My feedback was the following:
 
-| Questions  | Male, late 20s  | Female, mid 50s   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|           Questions          |             Male, late 20s             |               Female, mid 50s              |
+|------------------------------|----------------------------------------|--------------------------------------------|
+| Can you tell me what you     | It’s giving percentages of state       | A set of charts comparing the percentage   |
+| think this is?               | populations that make at or below      | of people making at or below minimum wage  |
+|                              | minimum wage.                          | in states who have adopted a higher        |
+|                              |                                        | minimum wage with states who have not      |
+
 
 I went back to the drawing board. I decided to make a more specific story that I wanted to tell. Instead of just using the data from 2017 as the original chart uses, I chose to make a visualization that utilizes all of the information provided to create a look over time for a different comparison. My new focus became to show how Pennsylvania compares with its 19 other states who recognize the federal minimum wage as their state's minimum wage. 
 
