@@ -5,9 +5,6 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
 Hi I'm Jenna! I was born and raised near Kansas City, Missouri where I spent my childhood participating in choirs, musicals, dance, and band. I love everything that has to do with music! I studied Music Education with an emphasis in vocal music for my bachelor's degree and upon graduation I moved to Pittsburgh, PA to attend the Heinz College at Carnegie Mellon University to obtain my Master of Arts Manageent degree. I will complete my Systems Synthesis Project in the spring semester of 2024 and graduate in May of 2024. After graduation, I hope to land a job working for an opera organization in community engagement or in general operations management. 
 
@@ -32,7 +29,7 @@ All the information provided in the visualizations comes from [OCED.org's Data P
 The final visualization is a double bar graph in which the audience can easily compare 2019 Debt-to-GDP ratios with 2022 ratios. These years were specifically chosen to indicate how each country was performing in 2019, prior to the COVID-19 outbreak and in 2022 after most countries have returned to some sense of normalcy in the "post"-pandemic world. The United States is highlighted in red to draw the audience's attention immediately for a focus on US debt. Then the audience will notice the light-blue highlighted bars, which are countries who compare similarly to the United States regarding tourism and innovation. The remaining countries are left gray as background information that may be useful for other purposes, but is not the important topic. Utilizing this chart helps eliminate granular data, such as what was provided with the heat map, and show a "pause in time" for how each country fared from the pandemic. Without a lot of context, this chart allows the reader to quickly identify important information.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+[Critique by Design - Federal Minimum Wage](critique-by-design.md)
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
