@@ -5,7 +5,7 @@
 ![Map of minimum wages](Map.jpg)
 Kiersz, Andy. ‘Amazon Will Raise Workers’ Minimum Wage to $15 an Hour, More than Twice the Federal Minimum — Here’s How Many People in Each State Make Minimum Wage or Less’. Business Insider. Accessed 15 November 2023. https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10.
 
-I chose to critique this design because I thought it already looked relatively nice, but as they say, there is always room for improvement. I wanted to figure out how to improve this design to be more beneficial to a different audience. 
+I chose to critique this design because I thought it already looked relatively nice, but as they say, there is always room for improvement. I wanted to figure out how to improve this design to be more beneficial to a different audience. I also wanted to figure out how to tell the story differently without a map because, while maps are interesting to look at, they usually don't offer as much information as I would prefer. 
 
 Originally, my goal was to see what people think is important for this topic. I did not update the numbers from the 2017 information given in the original chart so that I could make a visualization that only contains the same information but in a different way. Therefore, I created this series of data charts to receive feedback on.
 
