@@ -26,6 +26,8 @@ The feedback I received was not what I was going for. I thought I had created a 
 |------------------------------|----------------------------------------|--------------------------------------------|
 | Can you tell me what you think this is? | It’s giving percentages of state populations that make at or below minimum wage. | A set of charts comparing the percentage of people making at or below minimum wage in states who have adopted a higher minimum wage with states who have not. |
 | Can you describe to me what this is telling you? | The first graphic tells me everything I need about the country, the second graphic shows me states that have a higher minimum wage than federal, the third graphic shows states that have federal minimum wage. | That most employees make more than minimum wage. |
+| Is there anything surprising or confusing? | No | No |
+| Which of these graphics do you think has the most compelling story to tell? | The third one because the cost of living keeps going up but people still aren’t making enough money to live, especially if it’s below minimum wage. But the first one is also really important because I can compare all the states. | The 3rd one. It shows  that states without a minimum wage greater than the federal have more people at or below minimum wage, which makes sense. |
 
 
 I went back to the drawing board. I decided to make a more specific story that I wanted to tell. Instead of just using the data from 2017 as the original chart uses, I chose to make a visualization that utilizes all of the information provided to create a look over time for a different comparison. My new focus became to show how Pennsylvania compares with its 19 other states who recognize the federal minimum wage as their state's minimum wage. 
