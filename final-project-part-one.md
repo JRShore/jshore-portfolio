@@ -17,6 +17,8 @@ The arts are a difficult subject to get many people on board with, simply becaus
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
+![Initial Sketches for Viz](Initial Sketches.jpg)
+ 
 Text here...
 
 # The data
