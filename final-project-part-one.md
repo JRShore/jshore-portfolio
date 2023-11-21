@@ -11,10 +11,13 @@ I want to utilize national data from the National Endowment for the Arts in tand
 
 The arts are a difficult subject to get many people on board with, simply because they are not considered "core classes" in education, but rather as extra-curriculars. Additionally, high performance in the arts does not generate as much grant funding for schools as high performance in math and science, so superindendants often do not care to listen to arguments for funding the arts in schools. My story arch would start medium to high in emotion to make the reader feel good as they start reading the story report. This is to hopefully draw in the reader and encourage them to continue to read, even when the story begins to drop in "feel-good" and begins to talk about the nitty-gritty of the report. Most people do not enjoy reading data, but my goal will be to keep the data interesting. I hope to find direct quotes about the importance of the arts for student success not just from the researchers, but from the students, as well. Once the data has been shown, the goal will be to show how this can impact children now. I want to make the argument that if schools spend more in the arts, they will see higher grades in the other subjects that they are seeking. It's all too common for the arts to be the first subject to lose funding from the school and/or district. With this data, there will be no denial of the importance the arts have on student success across all subjects. By the end of the story, I want people to be ready to make changes in the budget. I want parents to be encouraged to attend PTO meetings, teachers to be encouraged to stand up for their art, principles ready to make a change in their schools, and superintendants ready to make a change to improve their district of students. 
 
+*My initial story arc*
+![Final Project Initial Story Sketch](IMG-0020.jpg)
+
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-![Final Project Initial Story Sketch](IMG-0020.jpg)
+Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
