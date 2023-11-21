@@ -14,7 +14,7 @@ The arts are a difficult subject to get many people on board with, simply becaus
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-[Final Project Initial Story Sketch](IMG-0020.jpg)
+![Final Project Initial Story Sketch](IMG-0020.jpg)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
