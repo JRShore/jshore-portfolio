@@ -19,12 +19,12 @@ The arts are a difficult subject to get many people on board with, simply becaus
 
 ![Initial Sketches for Viz](Initial-Sketches.jpg)
  
-Text here...
+My goal is to show that students who participate in the arts have higher academic achievements than students who do not regularly participate in the arts. The arts are broad as of now, but if I struggle to find data, then I will specifically focus on music or theatre. These sketches would come towards the end of the story arc as a lead into the call-to-action plan. By demonstrating that the arts are a fundamental part of a child's learning and actually helps them to achieve better scores in their "core" classes, my audience will be more inclined to advocate for fundraising for the arts in schools. The data that would come prior to these sketches would show academic scores prior to arts engagement or from a control group of students who did not have regular arts classes. If I create visualizations for that information, it would likely be a report card by grade or utilizing similar graphics that are easy to understand in demonstrating poor academic performance. 
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+At this moment, my data comes from research papers and government organization reports. I have not yet located the raw data in an Excel file or spreadsheet to utilize in creating my own visualizations, but I am still on the lookout for them. Some of the statistics I want to put into a graphic to feature callout statistics and utilize iconography, as is common in the education field. 
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
