@@ -32,10 +32,10 @@ The final visualization is a double bar graph in which the audience can easily c
 [Critique by Design - Federal Minimum Wage](critique-by-design.md)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+My final project will center on raising funding for the arts in school systems. The data and story will center on student achievement for students who are regularly participating in the arts compared to students who do not regularly participate in the arts. 
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+[Part III](final-project-part-three.md)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
