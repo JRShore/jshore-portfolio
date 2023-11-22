@@ -18,10 +18,10 @@ The arts are a difficult subject to get many people on board with, simply becaus
 My goal is to show that students who participate in the arts have higher academic achievements than students who do not regularly participate in the arts. The arts are broad as of now, but if I struggle to find data, then I will specifically focus on music or theatre. These sketches would come towards the end of the story arc as a lead into the call-to-action plan. By demonstrating that the arts are a fundamental part of a child's learning and actually helps them to achieve better scores in their "core" classes, my audience will be more inclined to advocate for fundraising for the arts in schools. The data that would come prior to these sketches would show academic scores prior to arts engagement or from a control group of students who did not have regular arts classes. If I create visualizations for that information, it would likely be a report card by grade or utilizing similar graphics that are easy to understand in demonstrating poor academic performance. 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 At this moment, my data comes from research papers and government organization reports. I have not yet located the raw data in an Excel file or spreadsheet to utilize in creating my own visualizations, but I am still on the lookout for them. Some of the statistics I want to put into a graphic to feature callout statistics and utilize iconography, as is common in the education field. 
 
+I hope to find more hard data from research and reports from the National Endowment for the Arts and Americans for the Arts. This issue with the data I hope to find is that there is likely a privacy issue since it is relating to children. It is much easier to find data related to adult participation in the arts, but there are more security risks when creating reports around children. The data itself often must be kept private, but reports over the data can be made public. That being said, I may have to read a lot of research reports to gather the information necessary as opposed to having it nicely formatted and cummulated in a spreadsheet for me from the collector of the data. 
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -29,7 +29,7 @@ At this moment, my data comes from research papers and government organization r
 | New NEA Research Report Shows Potential Benefits of Arts Education for At-Risk Youth | [Report](https://www.arts.gov/news/press-releases/2012/new-nea-research-report-shows-potential-benefits-arts-education-risk-youth) | Research from the National Endowment for the Arts reports that at-risk students who participate in the arts are more likely to have higher academic achievement, engage civically, and set higher personal life and career goals. |
 | Music Education, Academic Achievement and Executive Functions | [Overview](https://www.artsedsearch.org/study/music-education-academic-achievement-and-executive-functions/) | This gives a summative overview of the abstract, key findings, methodology, and limitations of the research conducted. |
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+# Method and medium 
 
+Looking forward, I am going to spend a significant amount of time accessing information and reports to make my story difinitive and irrefutable. I personally know this information to be true and there are plenty of sources that also stand firmly on that same principle, but locating the information is a different story. Once I have gathered enough information, I will begin to manipulate it into my story arc for a contoured story that is easy for the reader to follow while pulling on their emotions just enough to help them along with the logic of increased funding for the arts in schools. 
 Text here...
