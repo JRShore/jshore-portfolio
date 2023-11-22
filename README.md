@@ -33,8 +33,11 @@ The final visualization is a double bar graph in which the audience can easily c
 
 ## Final project
 My final project will center on raising funding for the arts in school systems. The data and story will center on student achievement for students who are regularly participating in the arts compared to students who do not regularly participate in the arts. 
+
 [Part I](final-project-part-one.md)
+
 [Part II](final-project-part-two.md)
+
 [Part III](final-project-part-three.md)
 
 ---
