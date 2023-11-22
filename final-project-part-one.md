@@ -32,4 +32,3 @@ I hope to find more hard data from research and reports from the National Endowm
 # Method and medium 
 
 Looking forward, I am going to spend a significant amount of time accessing information and reports to make my story difinitive and irrefutable. I personally know this information to be true and there are plenty of sources that also stand firmly on that same principle, but locating the information is a different story. Once I have gathered enough information, I will begin to manipulate it into my story arc for a contoured story that is easy for the reader to follow while pulling on their emotions just enough to help them along with the logic of increased funding for the arts in schools. 
-Text here...
