@@ -30,9 +30,9 @@ At this moment, my data comes from research papers and government organization r
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Selection Into, and Academic Benefits from, Arts-Related Courses in Middle School Among Low-Income, Ethnically Diverse Youth | [PDF](https://www.arts.gov/sites/default/files/Research-Art-Works-GeorgeMason2.pdf) | This is the culmination of research that was funded by the National Endowment for the Arts that looked at school readiness of diverse youth and looked at liklihood of participating in the arts and academic achievement associated with those who did and did not participate in arts courses. |
+| New NEA Research Report Shows Potential Benefits of Arts Education for At-Risk Youth | [Report](https://www.arts.gov/news/press-releases/2012/new-nea-research-report-shows-potential-benefits-arts-education-risk-youth) | Research from the National Endowment for the Arts reports that at-risk students who participate in the arts are more likely to have higher academic achievement, engage civically, and set higher personal life and career goals. |
+| Music Education, Academic Achievement and Executive Functions | [Overview](https://www.artsedsearch.org/study/music-education-academic-achievement-and-executive-functions/) | This gives a summative overview of the abstract, key findings, methodology, and limitations of the research conducted. |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
