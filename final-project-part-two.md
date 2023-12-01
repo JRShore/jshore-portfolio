@@ -20,7 +20,7 @@ Finally, my "call-to-action" is for the audience to help their students change t
 
 ## Target audience
 
-My Target Audience is the parents of K-12 students, primarily in the public school systems. Less targeted, but still applicable audiences are also teachers of any age and subject, school board members, superintendants, principals, and anyone who votes and/or affects the budget alotted for music programs in schools. The goal is that this group of people will encourage students to enroll in music courses, stop cutting the budget for music, and increase opportunities for music classes in schools. 
+My Target Audience is the parents of K-12 students, primarily in the public school systems. Less targeted, but still applicable audiences are also teachers of any age and subject, school board members, superintendents, principals, and anyone who votes and/or affects the budget alotted for music programs in schools. The goal is that this group of people will encourage students to enroll in music courses, stop cutting the budget for music, and increase opportunities for music classes in schools. 
 
 ## Interview script
 
