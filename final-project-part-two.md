@@ -45,14 +45,14 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Does the order and flow of the topics discussed make sense? | Yes |             |             |
-| Are there any words or phrases that are hard to understand? Do you think an 8th-grader could read and understand this presentation? | 8th-grade me would definitely understand this since I was in music myself. I didn't find anything that was hard to understand. I think a well-studied 8th-grader will make sense of the presentation. |             |             |
-| Do you think the images and visualizations contribute to the understanding of the presentation? | Yes |             |             |
-| Do you know who the target audience is? | Adults of children in school. |  |  |
-| Can you recognize a theme and/or color scheme? | Music helps us learn better. |  |  |
-| Do you see any fluffy, unnecessary, or repetitive words or phrases? | No |  |  |
-| What changes would you make to this presentation and why? | I don't know of any that I would make at this moment in time. |  |  |
-| Is there information missing? What else would you want to know to move forward with the call-to-action? | None that I can think of. |  |  |
+| Does the order and flow of the topics discussed make sense? | Yes | Yes |             |
+| Are there any words or phrases that are hard to understand? Do you think an 8th-grader could read and understand this presentation? | 8th-grade me would definitely understand this since I was in music myself. I didn't find anything that was hard to understand. I think a well-studied 8th-grader will make sense of the presentation. | No. Yes. |             |
+| Do you think the images and visualizations contribute to the understanding of the presentation? | Yes | Yes |             |
+| Do you know who the target audience is? | Adults of children in school. | School board / parents |  |
+| Can you recognize a theme and/or color scheme? | Music helps us learn better. | The color Maze or goldenrod-ish and the theme seemed how music makes a person feel and the important role it plays in education. |  |
+| Do you see any fluffy, unnecessary, or repetitive words or phrases? | No | No |  |
+| What changes would you make to this presentation and why? | I don't know of any that I would make at this moment in time. | None. I believe it is well done. The way it draws the viewers in by asking how the clips make them feel, then going into the importance of music and the role music can play in helping one remember things. Heck, I loved Schoolhouse Rock growing up...it's how I learned about sentence structure (Conjunction Junction), how I learned about bills becoming a law (I'm just a Bill) and I immediately remembered the song of the video put in about the preamble. |  |
+| Is there information missing? What else would you want to know to move forward with the call-to-action? | None that I can think of. | I think it was perfect the way it is. |  |
 
 
 # Identified changes for Part III
