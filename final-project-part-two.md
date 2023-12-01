@@ -50,7 +50,7 @@ Text here!
 | Do you think the images and visualizations contribute to the understanding of the presentation? | Yes |             |             |
 | Do you know who the target audience is? | Adults of children in school. |  |  |
 | Can you recognize a theme and/or color scheme? | Music helps us learn better. |  |  |
-| Do you see any fluffy, unnecessary, or repetative words or phrases? | No |  |  |
+| Do you see any fluffy, unnecessary, or repetitive words or phrases? | No |  |  |
 | What changes would you make to this presentation and why? | I don't know of any that I would make at this moment in time. |  |  |
 | Is there information missing? What else would you want to know to move forward with the call-to-action? | None that I can think of. |  |  |
 
