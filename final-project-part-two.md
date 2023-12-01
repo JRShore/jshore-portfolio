@@ -43,7 +43,7 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1, male late 20s | Interview 2, female mid 50s | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Does the order and flow of the topics discussed make sense? | Yes | Yes |             |
 | Are there any words or phrases that are hard to understand? Do you think an 8th-grader could read and understand this presentation? | 8th-grade me would definitely understand this since I was in music myself. I didn't find anything that was hard to understand. I think a well-studied 8th-grader will make sense of the presentation. | No. Yes. |             |
