@@ -26,12 +26,12 @@ My Target Audience is the parents of K-12 students, primarily in the public scho
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Make the presentation easy to read | Are does the order and flow of the topics discussed make sense? |
+| Make the presentation easy to read | Does the order and flow of the topics discussed make sense? |
 | Use easy language, without jargon, that someone at or above an 8th-grade reading level will understand | Are there any words or phrases that are hard to understand? Do you think an 8th-grader could read and understand this presentation? |
 | Utilize images and visualizations to facilitate the reading, not just fill space | Do you think the images and visualizations contribute to the understanding of the presentation? |
 | Clearly written for the target audience | Do you know who the target audience is? |
 | Have a clear theme/color scheme | Can you recognize a theme and/or color scheme? |
-| Keep it clear and concise | Do you see any fluffy, unneccesary, or repetative words or phrases? |
+| Keep it clear and concise | Do you see any fluffy, unnecessary, or repetitive words or phrases? |
 | Input | What changes would you make to this presentation and why? |
 | Sufficient data | Is there information missing? What else would you want to know to move forward with the call-to-action? |
 
