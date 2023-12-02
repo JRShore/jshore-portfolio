@@ -15,8 +15,7 @@ I then introduce data that shows that engaging with music increases students' re
 Finally, my "call-to-action" is for the audience to help their students change their academic behaviors by engaging in music courses either in school or out of school. 49 of the 50 states have state legislature requiring music to be taught as part of a well-rounded education, however, most states only require a single credit of any fine arts class to graduate. I am giving the audience resources to reports and national data showing the importance of music for the social and academic developments of children and encouraging the audience to talk to their students about enrolling in a music course, especially for more than a year. 
 
 # User research 
-
-
+Having spent 5 years studying music education, I became very familiar with parents and their mind-sets. I also became aware of the conflicts between music educators, parents, school boards, and principals. This background information in the subject at hand helped me to organize who my target audience would be...all of the people who are often in conflict with music educators about the importance of the subjects they teach.
 
 ## Target audience
 
@@ -35,15 +34,9 @@ My Target Audience is the parents of K-12 students, primarily in the public scho
 | Input | What changes would you make to this presentation and why? |
 | Sufficient data | Is there information missing? What else would you want to know to move forward with the call-to-action? |
 
-
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1, male late 20s | Interview 2, female mid 50s | Interview 3 |
+| Questions               | Interview 1, male late 20s | Interview 2, female mid 50s | Interview 3, female early 30s |
 |-------------------------|--------------------------------|-------------|-------------|
 | Does the order and flow of the topics discussed make sense? | Yes | Yes | Absolutely! I understood how each element of the presentation tied in with the others, and how each part supported your overall thesis. Nothing struck me as odd or like it didn't fit. |
 | Are there any words or phrases that are hard to understand? Do you think an 8th-grader could read and understand this presentation? | 8th-grade me would definitely understand this since I was in music myself. I didn't find anything that was hard to understand. I think a well-studied 8th-grader will make sense of the presentation. | No. Yes. | I found it very easy to understand! There weren't any words or phrases that stuck out as difficult or unclear.  Not sure about the 8th graders, since 30% of them aren't reading at an 8th-grade level ;) (sorry, couldn't resist being cheeky here!) |
@@ -56,24 +49,13 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+I will dig through my research again and spend more time actually explaining the benefits of music to counter the research showing the the poor performance of school-aged children.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| My theme/color scheme is consistent throughout the presentation. | I will not make any changes to the color scheme or backgrounds chosen. |
+| While people who know and have studied music said I provided enough information, when asking someone who hasn't studied for several years of their life, they wanted for information. | I will include more about the findings from the research into the presentation, creating more charts, to help guide the for the benefits of music education. |
 
-> ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
+While it is only required to have 3 interviews, I will ask one or two more people for feedback to give better insight for improvements. I will ask another person who is not knowledgeable about music, since my target audience is less likely to be well-versed in the benefits of music. 
