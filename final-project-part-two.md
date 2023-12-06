@@ -1,8 +1,8 @@
-| [home page](https://jrshore.github.io/jshore-portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [Home Page](https://jrshore.github.io/jshore-portfolio/) | [Visualizing Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 ## [Link to Shorthand page](https://carnegiemellon.shorthandstories.com/the-importance-of-music-education/index.html)
 
-# Wireframes / storyboards
+# Wireframes / Storyboards
 
 I chose to build out my Wireframe in Shorthand. During this process, I learned that looking for data for all the fine arts became increasingly difficult to make the argument for the entire arts sector. That being said, I know the most about sources for music data because of my background in music education. My main sections were Music Helps You Feel, Music Helps You Learn, Current Student Performance, What Else Can Music Do?, and What You Can Do for Your K-12 Student. 
 
@@ -14,14 +14,14 @@ I then introduce data that shows that engaging with music increases students' re
 
 Finally, my "call-to-action" is for the audience to help their students change their academic behaviors by engaging in music courses either in school or out of school. 49 of the 50 states have state legislature requiring music to be taught as part of a well-rounded education, however, most states only require a single credit of any fine arts class to graduate. I am giving the audience resources to reports and national data showing the importance of music for the social and academic developments of children and encouraging the audience to talk to their students about enrolling in a music course, especially for more than a year. 
 
-# User research 
+# User Research 
 Having spent 5 years studying music education, I became very familiar with parents and their mind-sets. I also became aware of the conflicts between music educators, parents, school boards, and principals. This background information in the subject at hand helped me to organize who my target audience would be...all of the people who are often in conflict with music educators about the importance of the subjects they teach.
 
-## Target audience
+## Target Audience
 
 My Target Audience is the parents of K-12 students, primarily in the public school systems. Less targeted, but still applicable audiences are also teachers of any age and subject, school board members, superintendents, principals, and anyone who votes and/or affects the budget alotted for music programs in schools. The goal is that this group of people will encourage students to enroll in music courses, stop cutting the budget for music, and increase opportunities for music classes in schools. 
 
-## Interview script
+## Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -34,7 +34,7 @@ My Target Audience is the parents of K-12 students, primarily in the public scho
 | Input | What changes would you make to this presentation and why? |
 | Sufficient data | Is there information missing? What else would you want to know to move forward with the call-to-action? |
 
-## Interview findings
+## Interview Findings
 
 | Questions               | Interview 1, male late 20s | Interview 2, female mid 50s | Interview 3, female early 30s |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -48,7 +48,7 @@ My Target Audience is the parents of K-12 students, primarily in the public scho
 | Is there information missing? What else would you want to know to move forward with the call-to-action? | None that I can think of. | I think it was perfect the way it is. | Ah -- I guess I sort of just answered this.  But yeah, I think if you flesh out the "What Can Music Do?" part, the call to action will fit together with it beautifully! |
 
 
-# Identified changes for Part III
+# Identified Changes for Part III
 
 I will dig through my research again and spend more time actually explaining the benefits of music to counter the research showing the the poor performance of school-aged children.
 
