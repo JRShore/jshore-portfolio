@@ -1,29 +1,28 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+[Link to Shorthand](https://carnegiemellon.shorthandstories.com/the-importance-of-music-education/)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+In part II, my user research was mostly positive. This did not leave me with much to fix for part III, however, one of my interviewees told me that she wished I had included more about the affects of music for children. I added an additional paragraph detailing neurological changes that occur from just listening to music, then expanded how making and creating music increases these effects and has a lifelong impact. I also created another chart to include with the information to supplement a callout statistic. 
+
+As recommended by both professor Goranson and the TA, I further narrowed my audience and strengthened my call-to-action. Instead of including any and all adults who affect the academic opportunities of students, I specifically am targeting the parents and guardians of students. I chose to narrow to just the parents and guardians because they have the most significant influence on a child's life, especially in their younger years before reaching adolescence. If a parent/guardian encourages their 5-year-old to listen to different music or takes them to a music camp, then that student is far more likely to engage in music later in life because the parent shows the importance of it. 
+
+I strengthened my call-to-action from "talking to your students" to "enrolling your students." Even if parents do not have the choice to enroll their student in additional music classes through the school, most communities have music programs outside of the school that children can be involved in. Often, if the program costs money, there are scholarship opportunities that the parent or guardian can apply for to compensate if they do not have the funds to send their child otherwise.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+As mentioned above, I narrowed my audience to the parents and guardians of students. Our parents have a significant impact on our lives, so if a child's parents demonstrate the importance of music, the child is more likely to find music important. I am a case study of this, as are my two sisters. My mom always encouraged us to engage in the arts, especially in music and theatre. My mom was a band, choir, and theatre kid. She loves music and theatre and that showed while she was raising us. Because of her encouragement for the arts, I took dance lessons for 13 years along with participation in choir and band for the majority of my childhood. I also participated in countless theatre productions. My older sister played in band for a year, sang in choir for many years, and participated in theatre for several years. My little sister took dance lessons for a few years, sang in choir, acted in several musicals, and was in band for 4 years. All of us understand the importance of music and the arts because we had an encouraging parent who let us explore. 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+Picking a theme was difficult for me because I didn't know how to choose a theme that would support my topic. After a lot of consideration, I decided my theme would be "education." This has a specific meaning for a theme perhaps only for me maybe a few others. When I think of a presentation theme as "education" I then think down to elementary, middle, and high school education styles. Elementary being very picture-heavy with very simple words, bright colors, and cartoons. Since I am presenting to adults, I did not want to make a presentation that seemed to "dumb down" the content, so I thought about the next level, middle school. This still has several pictures to connect words with meanings, but not as many as elementary so that the pictures tell the story. There are some bigger words, but they are explained and/or used in context that can easily be deciphered by reading the words and phrases around it. It is still vibrant, but perhaps not full of a lot of bright colors. A good candidate in my opinion, but I still considered the final piece, high school. High school is very word-heavy with minimal pictures to skew perception of the words. There is less color but more sophisticated words, still in a context that can be deciphered, but never explained to the reader. 
 
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+After my research and showing how students are performing virutally the same as students from 50 years ago, I decided that the middle school education theme would be my best choice. I wanted to create a presentation that is accessible to a variety of parents, not just well-educated ones. But I didn't want to make the presentation seem as though I thought the audience was incapable of understanding anything about third-grade. I decided an 8th-grade reading level would be my goal. It's upper middle school, but still not quite to the high school level, so that maybe parents who didn't finish high school could still understand it. 
 
-Text here!
+This is how I chose my mellow feeling yellow and blue color scheme. There are several supplemental images, but not so many that the pictures tell the story more than the words do. I also include bigger words especially when describing the effects on the brain, but I explain the terms so there is no confusion as to what is meant. The language should be easy enough to understand for most adults, but probably not adults who do not speak fluent English. If I were to do another iteration of this assignment, I would ask someone who has not spoken English most of their life or who is still in the learning process to make it accessible to an even broader audience, since we have many immigrant parents in America. 
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
