@@ -1,4 +1,4 @@
-| [home page](https://jrshore.github.io/jshore-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [Home Page](https://jrshore.github.io/jshore-portfolio/) | [Visualizing Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 # Outline
  
