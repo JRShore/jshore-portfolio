@@ -1,10 +1,10 @@
 | [home page](https://jrshore.github.io/jshore-portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
-# The final data story
+# The Final Data Story
 
 ## [Link to Shorthand](https://carnegiemellon.shorthandstories.com/the-importance-of-music-education/)
 
-# Changes made since Part II
+# Changes Made Since Part II
 
 In part II, my user research was mostly positive. This did not leave me with much to fix for part III, however, one of my interviewees told me that she wished I had included more about the affects of music for children. I added an additional paragraph detailing neurological changes that occur from just listening to music, then expanded how making and creating music increases these effects and has a lifelong impact. I also created another chart to include with the information to supplement a callout statistic. 
 
@@ -12,11 +12,11 @@ As recommended by both professor Goranson and the TA, I further narrowed my audi
 
 I strengthened my call-to-action from "talking to your students" to "enrolling your students." Even if parents do not have the choice to enroll their student in additional music classes through the school, most communities have music programs outside of the school that children can be involved in. Often, if the program costs money, there are scholarship opportunities that the parent or guardian can apply for to compensate if they do not have the funds to send their child otherwise.
 
-## The audience
+## The Audience
 
 As mentioned above, I narrowed my audience to the parents and guardians of students. Our parents have a significant impact on our lives, so if a child's parents demonstrate the importance of music, the child is more likely to find music important. I am a case study of this, as are my two sisters. My mom always encouraged us to engage in the arts, especially in music and theatre. My mom was a band, choir, and theatre kid. She loves music and theatre and that showed while she was raising us. Because of her encouragement for the arts, I took dance lessons for 13 years along with participation in choir and band for the majority of my childhood. I also participated in countless theatre productions. My older sister played in band for a year, sang in choir for many years, and participated in theatre for several years. My little sister took dance lessons for a few years, sang in choir, acted in several musicals, and was in band for 4 years. All of us understand the importance of music and the arts because we had an encouraging parent who let us explore. 
 
-## Final design decisions
+## Final Design Decisions
 
 Picking a theme was difficult for me because I didn't know how to choose a theme that would support my topic. After a lot of consideration, I decided my theme would be "education." This has a specific meaning for a theme perhaps only for me maybe a few others. When I think of a presentation theme as "education" I then think down to elementary, middle, and high school education styles. Elementary being very picture-heavy with very simple words, bright colors, and cartoons. Since I am presenting to adults, I did not want to make a presentation that seemed to "dumb down" the content, so I thought about the next level, middle school. This still has several pictures to connect words with meanings, but not as many as elementary so that the pictures tell the story. There are some bigger words, but they are explained and/or used in context that can easily be deciphered by reading the words and phrases around it. It is still vibrant, but perhaps not full of a lot of bright colors. A good candidate in my opinion, but I still considered the final piece, high school. High school is very word-heavy with minimal pictures to skew perception of the words. There is less color but more sophisticated words, still in a context that can be deciphered, but never explained to the reader. 
 
@@ -24,6 +24,6 @@ After my research and showing how students are performing virutally the same as 
 
 This is how I chose my mellow feeling yellow and blue color scheme. There are several supplemental images, but not so many that the pictures tell the story more than the words do. I also include bigger words especially when describing the effects on the brain, but I explain the terms so there is no confusion as to what is meant. The language should be easy enough to understand for most adults, but probably not adults who do not speak fluent English. If I were to do another iteration of this assignment, I would ask someone who has not spoken English most of their life or who is still in the learning process to make it accessible to an even broader audience, since we have many immigrant parents in America. 
 
-# Final thoughts
+# Final Thoughts
 
 I wish that I would have had more time to really delve into the research and storybuilding process. Since this class is only a mini, it didn't give much time to really dedicate to the researching and building process. This is certainly a project I am transfering to my personal account and including in my professional portfolio. I think I will create 2 versions, the first being this one that I am submitting, but also diving deeper into the research and really focusing on finding the data to create better developed visualizations to help tell the story even more. This is truly a subject I am passionate about, which is why I chose to change my career to arts administration, so that I can help make a difference for the arts. I enjoyed being able to research and talk about my passion in a data-driven way, not an emotion-driven way as the arts tend to do. 
