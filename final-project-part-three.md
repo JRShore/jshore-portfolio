@@ -2,7 +2,7 @@
 
 # The final data story
 
-[Link to Shorthand](https://carnegiemellon.shorthandstories.com/the-importance-of-music-education/)
+##[Link to Shorthand](https://carnegiemellon.shorthandstories.com/the-importance-of-music-education/)
 
 # Changes made since Part II
 
